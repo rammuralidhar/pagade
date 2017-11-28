@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="right-down" width="240" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="mario" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="924" columns="33">
+  <image source="tileset_gutter.png" width="594" height="504"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="240" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt3TEKwEAIBEBz///Q/S7pc00giyADTu9qK7hX1YaApyK6cwEAAAAA31311t0TAAAAAAAAAAAAQMLpbvJP3fkAAAAAAAAAAAAAgBlW6MdUUvfMJu9iat7u3abcTygbtA==
+  </data>
+ </layer>
+</map>
